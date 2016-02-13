@@ -1,0 +1,62 @@
+Choice		Action
+------		------
+A		Add Customer
+B		Add Bank
+D		Search for Customer
+E		Search for Bank
+L		List Customers
+M		List Banks
+O		Sort Customers
+P		Sort Banks
+Q		Quit
+R		Remove Customer
+S		Remove Bank
+T		Close BankSystem
+U		Write Text to File
+V		Read Text from File
+W		Serialize BankSystem to File
+X		Deserialize BankSystem from File
+?		Display Help
+
+What action would you like to perform?
+Please enter the bank information to add:
+bank added
+What action would you like to perform?
+Please enter the bank information to add:
+bank added
+What action would you like to perform?
+Please enter the bank's name to search:
+Please enter the bank's id to search:
+Please enter the bank's city to search:
+Please enter the bank's state to search:
+bank found
+What action would you like to perform?
+Please enter the bank's name to search:
+Please enter the bank's id to search:
+Please enter the bank's city to search:
+Please enter the bank's state to search:
+bank not found
+What action would you like to perform?
+
+Bank name:		Bank Arizona
+Bank ID:		1
+Bank address:		Phoenix,AZ
+
+
+Bank name:		Bank Nevada
+Bank ID:		5
+Bank address:		Las Vegas,NV
+
+What action would you like to perform?
+Please enter a file name to write:
+Please enter a string to write in the file:
+trythisone.txt was written
+What action would you like to perform?
+Please enter a file name to read:
+trythatone.txt was not found
+What action would you like to perform?
+Please enter a file name to read:
+trythisone.txt was read
+The first line of the file is:
+This file contains only one line.
+What action would you like to perform?

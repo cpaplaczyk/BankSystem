@@ -1,0 +1,104 @@
+Choice		Action
+------		------
+A		Add Customer
+B		Add Bank
+D		Search for Customer
+E		Search for Bank
+L		List Customers
+M		List Banks
+O		Sort Customers
+P		Sort Banks
+Q		Quit
+R		Remove Customer
+S		Remove Bank
+T		Close BankSystem
+U		Write Text to File
+V		Read Text from File
+W		Serialize BankSystem to File
+X		Deserialize BankSystem from File
+?		Display Help
+
+What action would you like to perform?
+Please enter the customer information to add:
+customer added
+What action would you like to perform?
+Please enter the customer information to add:
+customer added
+What action would you like to perform?
+Please enter the customer information to add:
+customer added
+What action would you like to perform?
+Please enter the customerID of a customer to search:
+customer found
+What action would you like to perform?
+Please enter the customerID of a customer to search:
+customer not found
+What action would you like to perform?
+Please enter the customerID of a customer to search:
+customer found
+What action would you like to perform?
+
+First name:		Barack
+Last name:		Obama
+Customer ID:		000-00-0000
+Cash amount:		$300.00
+
+
+First name:		Bill
+Last name:		Clinton
+Customer ID:		123-45-6789
+Cash amount:		$240.50
+
+
+First name:		Charlie
+Last name:		Brown
+Customer ID:		222-22-2222
+Cash amount:		$1,000.00
+
+What action would you like to perform?
+Please enter the customerID to remove:
+customer removed
+What action would you like to perform?
+
+First name:		Bill
+Last name:		Clinton
+Customer ID:		123-45-6789
+Cash amount:		$240.50
+
+
+First name:		Charlie
+Last name:		Brown
+Customer ID:		222-22-2222
+Cash amount:		$1,000.00
+
+What action would you like to perform?
+Please enter the customerID to remove:
+customer not found
+What action would you like to perform?
+Please enter the customerID to remove:
+customer removed
+What action would you like to perform?
+
+First name:		Charlie
+Last name:		Brown
+Customer ID:		222-22-2222
+Cash amount:		$1,000.00
+
+What action would you like to perform?
+Please enter a file name to write:
+system.dat was written
+What action would you like to perform?
+bank system closed
+What action would you like to perform?
+no customer
+What action would you like to perform?
+Please enter a file name to read:
+system.dat was read
+What action would you like to perform?
+
+First name:		Charlie
+Last name:		Brown
+Customer ID:		222-22-2222
+Cash amount:		$1,000.00
+
+What action would you like to perform?

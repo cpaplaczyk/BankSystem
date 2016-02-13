@@ -1,0 +1,174 @@
+Choice		Action
+------		------
+A		Add Customer
+B		Add Bank
+D		Search for Customer
+E		Search for Bank
+L		List Customers
+M		List Banks
+O		Sort Customers
+P		Sort Banks
+Q		Quit
+R		Remove Customer
+S		Remove Bank
+T		Close BankSystem
+U		Write Text to File
+V		Read Text from File
+W		Serialize BankSystem to File
+X		Deserialize BankSystem from File
+?		Display Help
+
+What action would you like to perform?
+Please enter the bank information to add:
+bank added
+What action would you like to perform?
+Please enter the bank information to add:
+bank added
+What action would you like to perform?
+Please enter the bank information to add:
+bank added
+What action would you like to perform?
+Please enter the customer information to add:
+customer added
+What action would you like to perform?
+Please enter the customer information to add:
+customer added
+What action would you like to perform?
+Please enter the customer information to add:
+customer added
+What action would you like to perform?
+Please enter the customerID of a customer to search:
+customer found
+What action would you like to perform?
+
+Bank name:		Bank Arizona
+Bank ID:		10003
+Bank address:		Tucson,AZ
+
+
+Bank name:		Bank Oregon
+Bank ID:		10
+Bank address:		Portland,OR
+
+
+Bank name:		Bank Nevada
+Bank ID:		5
+Bank address:		Las Vegas,NV
+
+What action would you like to perform?
+Please enter the bank information to add:
+bank added
+What action would you like to perform?
+Please enter the bank's name to remove:
+Please enter the bank's id to remove:
+Please enter the bank's city to remove:
+Please enter the bank's state to remove:
+bank not found
+What action would you like to perform?
+
+Bank name:		Bank Arizona
+Bank ID:		10003
+Bank address:		Tucson,AZ
+
+
+Bank name:		Bank Oregon
+Bank ID:		10
+Bank address:		Portland,OR
+
+
+Bank name:		Bank Nevada
+Bank ID:		5
+Bank address:		Las Vegas,NV
+
+
+Bank name:		Bank California
+Bank ID:		4
+Bank address:		Los Angeles,CA
+
+What action would you like to perform?
+Please enter the bank's name to remove:
+Please enter the bank's id to remove:
+Please enter the bank's city to remove:
+Please enter the bank's state to remove:
+bank removed
+What action would you like to perform?
+Please enter the bank's name to remove:
+Please enter the bank's id to remove:
+Please enter the bank's city to remove:
+Please enter the bank's state to remove:
+bank not found
+What action would you like to perform?
+
+Bank name:		Bank Arizona
+Bank ID:		10003
+Bank address:		Tucson,AZ
+
+
+Bank name:		Bank Nevada
+Bank ID:		5
+Bank address:		Las Vegas,NV
+
+
+Bank name:		Bank California
+Bank ID:		4
+Bank address:		Los Angeles,CA
+
+What action would you like to perform?
+banks sorted
+What action would you like to perform?
+
+Bank name:		Bank Arizona
+Bank ID:		10003
+Bank address:		Tucson,AZ
+
+
+Bank name:		Bank California
+Bank ID:		4
+Bank address:		Los Angeles,CA
+
+
+Bank name:		Bank Nevada
+Bank ID:		5
+Bank address:		Las Vegas,NV
+
+What action would you like to perform?
+
+First name:		Snow
+Last name:		White
+Customer ID:		000-00-0000
+Cash amount:		$0.00
+
+
+First name:		Elvis
+Last name:		Presley
+Customer ID:		555-55-5555
+Cash amount:		$1,200,000.00
+
+
+First name:		Charlie
+Last name:		Brown
+Customer ID:		777-77-7777
+Cash amount:		$8,765.00
+
+What action would you like to perform?
+customers sorted
+What action would you like to perform?
+
+First name:		Charlie
+Last name:		Brown
+Customer ID:		777-77-7777
+Cash amount:		$8,765.00
+
+
+First name:		Elvis
+Last name:		Presley
+Customer ID:		555-55-5555
+Cash amount:		$1,200,000.00
+
+
+First name:		Snow
+Last name:		White
+Customer ID:		000-00-0000
+Cash amount:		$0.00
+
+What action would you like to perform?

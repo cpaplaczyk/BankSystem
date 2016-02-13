@@ -1,0 +1,23 @@
+B
+Bank Arizona/00001/Phoenix, AZ
+B
+Bank Nevada/00005/Las Vegas, NV
+E
+Bank Nevada
+5
+Las Vegas
+NV
+E
+Bank Utah
+1
+Salt Lake City
+UT
+M
+U
+trythisone.txt
+This file contains only one line.
+V
+trythatone.txt
+V
+trythisone.txt
+Q

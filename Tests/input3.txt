@@ -1,0 +1,40 @@
+B
+Bank Arizona/10003/Tucson,AZ
+B
+Bank Oregon/00010/Portland,OR
+B
+Bank Nevada/00005/Las Vegas, NV
+A
+White,Snow:000-00-0000:
+A
+Presley,Elvis:555-55-5555:1200000.00
+A
+Brown,Charlie:777-77-7777: 8765
+D
+555-55-5555
+M
+B
+Bank California/00004/Los Angeles,CA
+S
+Bank California
+4
+San Diego
+CA
+M
+S
+Bank Oregon
+10
+Portland
+OR
+S
+Bank Arizona
+10004
+Tucson
+AZ
+M
+P
+M
+L
+O
+L
+Q

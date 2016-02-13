@@ -1,0 +1,35 @@
+b
+Bank Nevada/00005/Reno, NV
+B
+Bank Arizona/10003/Tucson,AZ
+B
+Bank California/00002/San Diego,CA
+M
+B
+Bank Arizona/00001/Phoenix, AZ
+M
+P
+M
+A
+Presley,Elvis:111-11-1111:15000.00
+A
+Clinton,Hillary:555-55-5555:30000
+A
+Clinton,Bill:222-22-2222:2000
+L
+O
+L
+W
+system1.dat
+T
+L
+M
+X
+system2.dat
+L
+M
+X
+system1.dat
+L
+M
+Q
